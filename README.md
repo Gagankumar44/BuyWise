@@ -20,9 +20,10 @@ BuyWise is an intelligent, honest conversational shopping advisor built to help 
 
 ## 🏗️ Technical Architecture
 
-- **Frontend**: React 18, TypeScript, Vite, Tailwind CSS, Lucide React icons, React-Markdown, Remark-GFM.
+- **Frontend**: React 19, TypeScript, Vite, Tailwind CSS, Lucide React icons, React-Markdown, Remark-GFM.
 - **Backend**: Node.js, Express.js, CORS, Dotenv.
-- **AI Engine**: Google Gemini API (`@google/genai` SDK with `gemini-2.5-flash`) + Intelligent Local Shopping Advisor Engine.
+- **AI Engine**: Google Gemini API (`@google/genai` SDK with `gemini-3.1-flash-lite` and `gemini-3.5-flash-lite` fallback) + Intelligent Local Shopping Advisor Engine.
+- **Strict Domain Guardrail**: Deterministic guardrail layer ensuring BuyWise strictly answers shopping and tech gear purchasing queries, politely refusing off-topic requests (coding, trivia, homework, recipes).
 - **Knowledge Base**: Curated 25 genuine products (`server/src/data/products.json`) across:
   - 💻 Laptops (Acer, ASUS, HP, Lenovo, Apple M1)
   - 📱 Smartphones (Redmi, Moto G54, Samsung Galaxy M35, OnePlus Nord CE 4 Lite, OnePlus Nord 4)
@@ -52,7 +53,7 @@ Open `http://localhost:5173` in your browser to start shopping!
 
 ---
 
-## 🔑 Activating Live Gemini 2.5 Flash (Optional)
+## 🔑 Activating Live Gemini AI (Optional)
 
 BuyWise is pre-configured to work immediately using its built-in rule-based Advisor Engine. To enable live Google Gemini generative intelligence:
 
@@ -61,9 +62,9 @@ BuyWise is pre-configured to work immediately using its built-in rule-based Advi
    ```env
    PORT=5000
    GEMINI_API_KEY=your_actual_gemini_api_key_here
-   GEMINI_MODEL=gemini-2.5-flash
+   GEMINI_MODEL=gemini-3.1-flash-lite
    ```
-3. Restart the backend server. The indicator in the sidebar and settings will turn **green ("Gemini 2.5 Active")**.
+3. Restart the backend server. The indicator in the sidebar and settings will turn **green ("Gemini 3.1 Flash Active")**.
 
 ---
 
