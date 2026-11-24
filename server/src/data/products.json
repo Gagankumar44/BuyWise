@@ -1,0 +1,967 @@
+[
+  {
+    "id": "lp-001",
+    "name": "Acer Aspire Lite (Ryzen 5 5500U)",
+    "brand": "Acer",
+    "category": "Laptops",
+    "price": 35990,
+    "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=600&auto=format&fit=crop&q=80",
+    "description": "A dependable, high-value 15.6-inch laptop powered by a 6-core AMD Ryzen 5 processor, tailored for students and budding programmers.",
+    "specifications": {
+      "processor": "AMD Ryzen 5 5500U (6 Cores, 12 Threads)",
+      "ram": "16 GB DDR4 (Upgradable)",
+      "storage": "512 GB PCIe NVMe SSD",
+      "display": "15.6-inch Full HD (1920x1080) Anti-Glare",
+      "battery_life": "Up to 7 hours",
+      "weight": "1.59 kg",
+      "os": "Windows 11 Home",
+      "ports": "Type-C, 3x USB-A, HDMI, SD Card Reader, Audio Jack"
+    },
+    "key_features": [
+      "6-Core Ryzen 5 processor handles IDEs, compilation, and multitasking effortlessly",
+      "Comes pre-installed with 16GB RAM for smooth multitasking",
+      "Slim metal cover design weighing just 1.59 kg",
+      "Full array of I/O ports including Type-C"
+    ],
+    "advantages": [
+      "Exceptional value with 16GB RAM under ₹36,000",
+      "Smooth performance in VS Code, Python, Web Development, and daily office tasks",
+      "Fast SSD boots in seconds and loads projects quickly",
+      "Lightweight for a 15.6-inch laptop"
+    ],
+    "disadvantages": [
+      "Plastic base chassis feels average",
+      "Display color accuracy (45% NTSC) is not suited for professional photo/video color grading",
+      "Keyboard lacks backlighting"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0C4FKB9Z7",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "lp-002",
+    "name": "ASUS Vivobook 15 (Core i3 12th Gen)",
+    "brand": "ASUS",
+    "category": "Laptops",
+    "price": 33990,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
+    "description": "Sleek and sturdy everyday companion designed for college lectures, document drafting, online classes, and media streaming.",
+    "specifications": {
+      "processor": "Intel Core i3-1215U (6 Cores, 8 Threads)",
+      "ram": "8 GB DDR4 (Upgradable up to 16GB)",
+      "storage": "512 GB M.2 NVMe SSD",
+      "display": "15.6-inch FHD (1920x1080) 60Hz NanoEdge",
+      "battery_life": "Up to 6 hours",
+      "weight": "1.70 kg",
+      "os": "Windows 11 Home",
+      "ports": "1x USB-C 3.2, 2x USB-A, 1x USB 2.0, HDMI 1.4, Audio Jack"
+    },
+    "key_features": [
+      "180-degree lay-flat hinge for easy collaboration",
+      "ErgoSense keyboard for comfortable typing experience",
+      "Webcam privacy shield for online safety",
+      "Fast charging: 60% in 49 minutes"
+    ],
+    "advantages": [
+      "Very reliable brand reliability and service network in India",
+      "Comfortable key travel and tactile feel for long typing sessions",
+      "Crisp display with thin side bezels",
+      "Quiet thermals during office work and video lectures"
+    ],
+    "disadvantages": [
+      "8GB RAM out-of-the-box (recommend adding another 8GB stick for heavy multitasking)",
+      "Not meant for intensive gaming or 3D rendering",
+      "Battery life is average under continuous high screen brightness"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0B56CYF84",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "lp-003",
+    "name": "HP 15s (Ryzen 5 5500U, Backlit KB)",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 43990,
+    "image": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?w=600&auto=format&fit=crop&q=80",
+    "description": "One of India's most popular student and programmer laptops, pairing 16GB RAM with a backlit keyboard and solid battery endurance.",
+    "specifications": {
+      "processor": "AMD Ryzen 5 5500U (6 Cores, 12 Threads)",
+      "ram": "16 GB DDR4 (2x8GB dual channel)",
+      "storage": "512 GB PCIe NVMe SSD",
+      "display": "15.6-inch FHD (1920x1080) Micro-edge 250 nits",
+      "battery_life": "Up to 8 hours with HP Fast Charge",
+      "weight": "1.69 kg",
+      "os": "Windows 11 Home + MS Office Home & Student 2021",
+      "ports": "1x USB-C, 2x USB-A, HDMI 1.4b, Headphone/Mic, SD Card slot"
+    },
+    "key_features": [
+      "Factory dual-channel 16GB RAM for maximum iGPU performance",
+      "Full-sized backlit keyboard with dedicated numeric keypad",
+      "Includes genuine lifetime Microsoft Office 2021 license",
+      "Dual array digital microphones with noise reduction for online classes"
+    ],
+    "advantages": [
+      "Superb all-rounder for engineering, data analysis, and programming",
+      "Backlit keyboard makes late-night dorm room coding easy",
+      "Great battery life easily lasting through a day of classes",
+      "Included MS Office saves ₹4,000+ software cost"
+    ],
+    "disadvantages": [
+      "Screen brightness is 250 nits, challenging under direct harsh sunlight",
+      "Webcam is standard 720p HD resolution",
+      "No fingerprint reader on this specific variant"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B09V12L2D8",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "lp-004",
+    "name": "Lenovo IdeaPad Slim 3 (Core i5 12450H)",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 49990,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&auto=format&fit=crop&q=80",
+    "description": "High-performance laptop featuring an Intel H-series 45W processor, built for demanding software builds, Docker containers, and STEM workloads.",
+    "specifications": {
+      "processor": "Intel Core i5-12450H (8 Cores: 4P + 4E, 12 Threads)",
+      "ram": "16 GB LPDDR5 4800MHz",
+      "storage": "512 GB SSD M.2 2242 PCIe 4.0",
+      "display": "15.6-inch FHD (1920x1080) IPS 300 nits Anti-glare",
+      "battery_life": "Up to 6.5 hours (Rapid Charge Boost)",
+      "weight": "1.62 kg",
+      "os": "Windows 11 Home",
+      "ports": "1x USB-C 3.2 (Data, PD, DP), 2x USB 3.2, HDMI 1.4, Audio Jack, SD slot"
+    },
+    "key_features": [
+      "Powerful 45W H-series CPU beats standard U-series by 35% in raw compute",
+      "High-speed LPDDR5 RAM for ultra-fast memory bandwidth",
+      "Military-grade MIL-STD-810H durability certified chassis",
+      "Brighter 300 nits IPS panel with wider viewing angles"
+    ],
+    "advantages": [
+      "Top-tier performance under ₹50,000 for programming, virtual machines, and multitasking",
+      "IPS panel gives noticeably richer contrast than TN screens",
+      "Solid build quality that withstands daily backpack travel",
+      "Dolby Audio tuned dual speakers"
+    ],
+    "disadvantages": [
+      "RAM is soldered LPDDR5 (not user upgradable beyond 16GB)",
+      "H-series processor draws more power, so fan spins audibly under heavy compiles",
+      "Slightly warm bottom plate under sustained maximum loads"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CGDYFR21",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "lp-005",
+    "name": "Apple MacBook Air (M1 Chip, 256GB)",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 64990,
+    "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=600&auto=format&fit=crop&q=80",
+    "description": "The benchmark ultraportable featuring Apple's custom M1 silicon, fanless silent operation, class-leading trackpad, and all-day 15+ hour battery.",
+    "specifications": {
+      "processor": "Apple M1 Chip (8-Core CPU, 7-Core GPU, 16-Core Neural Engine)",
+      "ram": "8 GB Unified Memory",
+      "storage": "256 GB NVMe SSD",
+      "display": "13.3-inch Retina Display (2560x1600, 400 nits, P3 Wide Color)",
+      "battery_life": "Up to 18 hours",
+      "weight": "1.29 kg",
+      "os": "macOS Sonoma",
+      "ports": "2x Thunderbolt / USB 4 ports, 3.5mm Headphone Jack"
+    },
+    "key_features": [
+      "Completely fanless zero-noise design that never gets uncomfortably hot",
+      "True 14-16 hours real-world battery life on a single charge",
+      "Retina display with 100% DCI-P3 wide color coverage",
+      "Best trackpad and aluminum unibody build in the industry"
+    ],
+    "advantages": [
+      "Outstanding efficiency: charge once and leave your charger at home all day",
+      "Instant wake and blazing app launch speeds",
+      "UNIX-based macOS is beloved by software engineers and web developers",
+      "Exceptional resale value even after 3 years of usage"
+    ],
+    "disadvantages": [
+      "Priced above ₹60,000 budget tier",
+      "Only 2 USB-C ports (requires external dongle for USB-A, HDMI, or SD cards)",
+      "8GB RAM and 256GB storage cannot be upgraded later",
+      "Supports only one external external monitor natively"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B08N5XSG8Z",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+
+  {
+    "id": "sp-001",
+    "name": "Redmi 13C 5G (6GB RAM, 128GB)",
+    "brand": "Redmi",
+    "category": "Smartphones",
+    "price": 9999,
+    "image": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
+    "description": "An ultra-affordable 5G smartphone delivering fast cellular connectivity, a smooth 90Hz display, and a massive 5000mAh battery under ₹10,000.",
+    "specifications": {
+      "processor": "MediaTek Dimensity 6100+ 5G (6nm)",
+      "ram": "6 GB (with 6GB virtual RAM expansion)",
+      "storage": "128 GB UFS 2.2 (expandable up to 1TB via micro-SD)",
+      "display": "6.74-inch HD+ (1600x720) 90Hz Corning Gorilla Glass",
+      "battery": "5000 mAh (18W charging support)",
+      "camera": "50 MP AI Primary + Auxiliary lens; 5 MP Front",
+      "os": "MIUI 14 based on Android 13",
+      "connectivity": "Dual 5G SIM, 3.5mm jack, side fingerprint sensor"
+    },
+    "key_features": [
+      "True 5G connectivity with 7 5G bands at an entry-level price point",
+      "Large 6.74-inch display with 90Hz refresh rate for fluid scrolling",
+      "Star trail back panel design with modern flat sides",
+      "Dedicated micro-SD card slot alongside dual nano-SIM trays"
+    ],
+    "advantages": [
+      "One of the lowest entry barriers to reliable 5G internet in India",
+      "Full day-and-a-half battery life with standard usage",
+      "Decent daytime photography with the 50MP main sensor",
+      "Includes 3.5mm headphone jack for wired audio"
+    ],
+    "disadvantages": [
+      "HD+ resolution (720p) rather than Full HD+",
+      "Inbox charger is only 10W (must purchase 18W adapter separately for faster charging)",
+      "MIUI includes pre-installed bloatware apps and notifications"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CNX6W8K2",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sp-002",
+    "name": "Moto G54 5G (8GB RAM, 128GB)",
+    "brand": "Motorola",
+    "category": "Smartphones",
+    "price": 13999,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600&auto=format&fit=crop&q=80",
+    "description": "The budget segment champion offering a huge 6000mAh battery, clean bloatware-free Android experience, and optical image stabilization (OIS).",
+    "specifications": {
+      "processor": "MediaTek Dimensity 7020 5G (6nm)",
+      "ram": "8 GB LPDDR4X",
+      "storage": "128 GB (expandable up to 1TB)",
+      "display": "6.5-inch Full HD+ (2400x1080) 120Hz IPS LCD",
+      "battery": "6000 mAh (33W TurboPower charger in box)",
+      "camera": "50 MP with OIS + 8 MP Ultra-wide/Macro; 16 MP Front",
+      "os": "Clean Android 13 (upgradeable to Android 14)",
+      "connectivity": "14 5G bands, Stereo speakers with Dolby Atmos, NFC"
+    },
+    "key_features": [
+      "Hardware Optical Image Stabilization (OIS) eliminates blurry handheld photos",
+      "Enormous 6000mAh battery delivers up to 2 full days of endurance",
+      "Near-stock Android interface with zero spammy push notifications",
+      "Stereo speakers with Dolby Atmos spatial tuning"
+    ],
+    "advantages": [
+      "OIS camera is unmatched at the ₹14,000 price point for crisp low-light shots",
+      "Outstanding battery endurance for travel, long commutes, and hotspot usage",
+      "Clean software with Motorola's intuitive gestures (chop for flashlight, twist for camera)",
+      "Sharp 120Hz Full HD+ display"
+    ],
+    "disadvantages": [
+      "LCD panel instead of AMOLED (blacks are less deep)",
+      "Slightly chunky 8.89mm thickness due to the 6000mAh battery",
+      "Motorola provides only 1 major OS update for this tier"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CJ51LKPW",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sp-003",
+    "name": "Samsung Galaxy M35 5G (8GB, 128GB)",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 16999,
+    "image": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?w=600&auto=format&fit=crop&q=80",
+    "description": "A long-lasting multimedia workhorse sporting a vivid 120Hz Super AMOLED display, Samsung Knox security, and guaranteed 4 years of OS updates.",
+    "specifications": {
+      "processor": "Samsung Exynos 1380 (5nm Octa-core)",
+      "ram": "8 GB LPDDR4X",
+      "storage": "128 GB UFS 3.1",
+      "display": "6.6-inch Super AMOLED FHD+ 120Hz (1000 nits Vision Booster)",
+      "battery": "6000 mAh (25W fast charging)",
+      "camera": "50 MP OIS Main + 8 MP Ultrawide + 2 MP Macro; 13 MP Front",
+      "os": "One UI 6.1 (4 OS updates + 5 years security patches)",
+      "connectivity": "5G, Wi-Fi 6, NFC, Dual SIM, Vapor Cooling Chamber"
+    },
+    "key_features": [
+      "Super AMOLED 120Hz screen with vibrant colors and deep true blacks",
+      "Flagship-grade 4 generations of Android OS updates and 5 years security patches",
+      "Hardware-level Samsung Knox Vault for banking and biometric data security",
+      "Vapor cooling chamber prevents throttling during sustained multitasking"
+    ],
+    "advantages": [
+      "Best display quality in the sub-₹18,000 tier for Netflix, YouTube, and gaming",
+      "Unmatched long-term software support guarantees relevance until 2028",
+      "Massive 6000mAh battery lasts nearly two days between charges",
+      "Reliable brand trust, service centers, and resale value"
+    ],
+    "disadvantages": [
+      "No charging brick included in the box (must buy 25W adapter separately)",
+      "Heavy at 222 grams due to the massive battery and glass front",
+      "Bezels around the display are on the thicker side"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0D5BHY45B",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sp-004",
+    "name": "OnePlus Nord CE 4 Lite 5G (8GB, 128GB)",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 19999,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=600&auto=format&fit=crop&q=80",
+    "description": "Style-focused smartphone featuring an ultra-bright 2100 nits AMOLED display, 80W SuperVOOC rapid charging, and smooth OxygenOS.",
+    "specifications": {
+      "processor": "Qualcomm Snapdragon 695 5G (6nm)",
+      "ram": "8 GB LPDDR4X",
+      "storage": "128 GB UFS 2.2",
+      "display": "6.67-inch AMOLED FHD+ 120Hz (2100 nits peak brightness)",
+      "battery": "5500 mAh (80W SuperVOOC wired + 5W reverse charging)",
+      "camera": "50 MP Sony LYT-600 with OIS + 2 MP Mono; 16 MP Front",
+      "os": "OxygenOS 14 based on Android 14",
+      "connectivity": "5G, Dual Stereo Speakers, 3.5mm Headphone Jack, IP54 rating"
+    },
+    "key_features": [
+      "Blazing fast 80W SuperVOOC charger in the box: 1% to 100% in 50 minutes",
+      "Sony LYT-600 sensor with OIS for vivid, stabilized daylight and night shots",
+      "Aqua Touch technology allows screen use even with wet fingers or in the rain",
+      "Slim, lightweight flat-edge design"
+    ],
+    "advantages": [
+      "Rapid charging speeds eliminate battery anxiety completely",
+      "Very bright display easy to view in outdoor sunny conditions",
+      "OxygenOS delivers smooth 120Hz animations without stutters",
+      "Retains the beloved 3.5mm audio jack alongside stereo speakers"
+    ],
+    "disadvantages": [
+      "Snapdragon 695 is an aging processor (not suitable for competitive BGMI at 90fps)",
+      "No ultrawide camera (only main 50MP + 2MP depth)",
+      "Plastic frame and back build"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0D5BHYXYZ",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sp-005",
+    "name": "OnePlus Nord 4 5G (8GB, 256GB)",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 29999,
+    "image": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?w=600&auto=format&fit=crop&q=80",
+    "description": "A true upper-tier all-metal unibody smartphone powered by the flagship-grade Snapdragon 7+ Gen 3 processor with 100W charging and 6 years of software support.",
+    "specifications": {
+      "processor": "Qualcomm Snapdragon 7+ Gen 3 (4nm, near Snapdragon 8 Gen 2 power)",
+      "ram": "8 GB LPDDR5X",
+      "storage": "256 GB UFS 4.0",
+      "display": "6.74-inch 1.5K AMOLED 120Hz Ultra HDR (2150 nits peak)",
+      "battery": "5500 mAh (100W SuperVOOC wired charging)",
+      "camera": "50 MP Sony LYT-600 OIS + 8 MP Ultrawide; 16 MP Front",
+      "os": "OxygenOS 14.1 (4 Android version updates + 6 years security)",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.4, Alert Slider, IR Blaster, IP65 water resistance"
+    },
+    "key_features": [
+      "First all-metal unibody 5G smartphone in years for unparalleled premium in-hand feel",
+      "Snapdragon 7+ Gen 3 powers high-end gaming and AI features effortlessly",
+      "100W charging fills the 5500mAh battery from 1% to 100% in just 28 minutes",
+      "6-year software security support guarantees long-term longevity"
+    ],
+    "advantages": [
+      "Flagship-tier speed, gaming performance, and thermal dissipation",
+      "Signature OnePlus 3-position physical alert slider",
+      "Gorgeous 1.5K sharp display with razor-thin uniform bezels",
+      "All-metal construction won't crack like glass back panels"
+    ],
+    "disadvantages": [
+      "Priced near the ₹30,000 mark (upper limit of mid-range budget)",
+      "No wireless charging support",
+      "No 3.5mm headphone jack"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0D7VS7G8C",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+
+  {
+    "id": "hp-001",
+    "name": "boAt Rockerz 450 Wireless On-Ear",
+    "brand": "boAt",
+    "category": "Headphones",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&auto=format&fit=crop&q=80",
+    "description": "Comfortable on-ear wireless headphones with punchy bass, plush foam earcups, and dual wireless/AUX modes for students on a tight budget.",
+    "specifications": {
+      "type": "On-Ear Wireless Headphones",
+      "driver_size": "40 mm dynamic drivers",
+      "battery_life": "Up to 15 hours playback",
+      "connectivity": "Bluetooth 5.0 + 3.5mm AUX Cable support",
+      "microphone": "Built-in omnidirectional mic",
+      "weight": "168 grams",
+      "charging": "Micro-USB (approx. 3 hours for full charge)"
+    },
+    "key_features": [
+      "Signature boAt Super Extra Bass sound tuning for music and movies",
+      "Foldable earcups for easy storage inside college backpacks",
+      "Dual connectivity: continue listening via AUX cable even when battery dies",
+      "Integrated playback and volume controls on the earcup"
+    ],
+    "advantages": [
+      "Extremely affordable price point at ₹1,299",
+      "Padded headband and cushioned earcups provide decent comfort for 2-hour stretches",
+      "Punchy sound profile well-suited for pop, hip-hop, and casual movie watching",
+      "AUX wired backup mode ensures you're never stranded without audio"
+    ],
+    "disadvantages": [
+      "On-ear design presses against ear pinna, which can cause ear fatigue after 3+ hours",
+      "Uses older micro-USB charging port rather than modern Type-C",
+      "Microphone picks up surrounding ambient room noise in noisy areas",
+      "No active noise cancellation"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B07PR1CL3S",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "hp-002",
+    "name": "OnePlus Nord Buds 2r TWS",
+    "brand": "OnePlus",
+    "category": "Headphones",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=600&auto=format&fit=crop&q=80",
+    "description": "True wireless earbuds delivering crisp acoustics, punchy 12.4mm titanium drivers, IP55 sweat resistance, and 38 hours of battery under ₹2,000.",
+    "specifications": {
+      "type": "True Wireless In-Ear Earbuds",
+      "driver_size": "12.4 mm Extra Large Titanium Drivers",
+      "battery_life": "8 hours single charge (earbuds), 38 hours total with case",
+      "connectivity": "Bluetooth 5.3 (94ms ultra-low gaming latency)",
+      "microphone": "Dual mic with AI Clear Call Noise Reduction",
+      "water_resistance": "IP55 dust and water resistant",
+      "charging": "USB Type-C with fast charging"
+    },
+    "key_features": [
+      "12.4mm extra-large titanium coated diaphragm produces rich bass and clear vocals",
+      "Sound Master Equalizer with 3 audio presets: Balanced, Bold, and Bass",
+      "Dual mic system with AI algorithm filters wind and background noise during calls",
+      "OnePlus Fast Pair support for instant Android pairing"
+    ],
+    "advantages": [
+      "Exceptional battery endurance: 8 hours per earbud on a single charge",
+      "Lightweight ergonomic fit that stays secure during jogging and gym workouts",
+      "Noticeably clear microphone quality for Zoom, Teams, and phone calls at ₹1,799",
+      "IP55 rating protects against rain and sweaty workout sessions"
+    ],
+    "disadvantages": [
+      "No Active Noise Cancellation (ANC); relies on passive in-ear silicon seal",
+      "Case has a matte plastic finish prone to minor scuffs over time",
+      "Lacks in-ear detection (playback doesn't auto-pause when you remove an earbud)"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0C3NWJTTK",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "hp-003",
+    "name": "OnePlus Nord Buds 3 (32dB ANC)",
+    "brand": "OnePlus",
+    "category": "Headphones",
+    "price": 2299,
+    "image": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=600&auto=format&fit=crop&q=80",
+    "description": "Value-defining wireless earbuds bringing genuine 32dB Active Noise Cancellation, dual microphones with AI call clarity, and pebble-case styling.",
+    "specifications": {
+      "type": "True Wireless In-Ear with Active Noise Cancellation",
+      "driver_size": "12.4 mm Titanized dynamic drivers with BassWave 2.0",
+      "battery_life": "Up to 12 hours (ANC off) / 43 hours total with case",
+      "anc": "Up to 32dB Active Noise Cancellation + Transparency Mode",
+      "connectivity": "Bluetooth 5.4, Google Fast Pair, Dual-device connection",
+      "microphone": "Dual mic setup with AI clear call algorithms",
+      "water_resistance": "IP55 dust and water resistant"
+    },
+    "key_features": [
+      "32dB Active Noise Cancellation effectively muffles bus rumble, AC drone, and cafe hum",
+      "Transparency Mode lets you hear traffic and announcements without removing earbuds",
+      "Dual Device Connection: seamlessly switch between your laptop and phone",
+      "BassWave 2.0 dynamically preserves bass punch without muddying mid frequencies"
+    ],
+    "advantages": [
+      "Best true ANC experience available under ₹2,500 in India",
+      "Dual-connection makes it effortless to attend laptop meetings and take phone calls",
+      "Impressive battery endurance: 10-minute quick charge yields 11 hours playback",
+      "Clean, modern pebble charging case"
+    ],
+    "disadvantages": [
+      "ANC is great for low rumbling engine noise, but higher-pitched voices still filter through",
+      "Bass can be slightly overwhelming on standard setting (easily tuned via HeyMelody app)",
+      "Touch controls can occasionally be triggered when adjusting earbuds"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0DFW19XYZ",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "hp-004",
+    "name": "Samsung Galaxy Buds FE",
+    "brand": "Samsung",
+    "category": "Headphones",
+    "price": 4999,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=600&auto=format&fit=crop&q=80",
+    "description": "Ergonomic earbuds featuring winged ear-fins for rock-solid fit, 30dB strong ANC, 3-mic beamforming audio, and Samsung ecosystem integration.",
+    "specifications": {
+      "type": "True Wireless In-Ear ANC Earbuds",
+      "driver_size": "1-way 11mm custom driver",
+      "battery_life": "6 hours (ANC on), up to 21 hours total with case",
+      "anc": "Powerful Active Noise Cancellation with Ambient Sound Mode",
+      "microphone": "3-microphone array (2 outer + 1 inner) with AI DNN filtering",
+      "connectivity": "Bluetooth 5.2, Auto Switch, Samsung Seamless Codec, AAC, SBC",
+      "fit": "Wing-tip ergonomic design with 3 sizes included"
+    },
+    "key_features": [
+      "Iconic wing-tip design locks firmly into ear concha, preventing dropouts even while running",
+      "3-microphone beamforming array delivers crystal-clear call quality in noisy environments",
+      "Auto-switch between Galaxy tablets, phones, and PCs without manual re-pairing",
+      "SmartThings Find compatibility helps locate misplaced earbuds via beep sound"
+    ],
+    "advantages": [
+      "Superior microphone and voice isolation compared to sub-₹3,000 earbuds",
+      "Remarkable secure fit that doesn't loosen during vigorous workouts",
+      "Natural and accurate sound balance with refined bass rather than muddy boomy lows",
+      "Effective Active Noise Cancellation creates a quiet study bubble in libraries"
+    ],
+    "disadvantages": [
+      "Total battery life with case (21 hrs) is lower than competitors offering 35+ hrs",
+      "Case does not support Qi wireless charging",
+      "Advanced features like Auto-Switch and high-res SSC codec require a Samsung smartphone"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CJ54J99R",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "hp-005",
+    "name": "Sony WH-CH720N Wireless Over-Ear ANC",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 7990,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=600&auto=format&fit=crop&q=80",
+    "description": "Featherlight over-ear wireless headphones powered by Sony's Integrated Processor V1, providing studio-grade noise canceling and 35-hour battery.",
+    "specifications": {
+      "type": "Over-Ear Wireless ANC Headphones",
+      "driver_size": "30 mm Sony dome drivers",
+      "battery_life": "Up to 35 hours (ANC on) / 50 hours (ANC off)",
+      "anc": "Dual Noise Sensor Technology powered by Sony V1 Chip",
+      "connectivity": "Bluetooth 5.2, Multipoint Dual Pairing, 3.5mm wired input",
+      "microphone": "Beamforming mics with Precise Voice Pickup Technology",
+      "weight": "192 grams (Sony's lightest wireless ANC headband)"
+    },
+    "key_features": [
+      "Integrated Processor V1 inherited from Sony's flagship WH-1000XM5 series",
+      "Multipoint Connection: connect simultaneously to laptop and mobile phone",
+      "DSEE (Digital Sound Enhancement Engine) restores high-frequency detail in compressed tracks",
+      "Ultra-light 192g build with synthetic leather earcups"
+    ],
+    "advantages": [
+      "Class-leading noise cancellation shuts out airplane rumble, traffic, and dorm conversations",
+      "Incredible 35-hour battery life with ANC enabled; charge once every week or two",
+      "Extreme all-day comfort: does not clamp or fatigue temples during 8-hour study sessions",
+      "Includes 3.5mm cable for zero-latency audio production and gaming"
+    ],
+    "disadvantages": [
+      "Priced at ₹7,990, requiring higher budget commitment",
+      "Headband does not fold inward (only earcups swivel flat)",
+      "Does not include a hard hardshell travel case in the retail box"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0BS1QCFHX",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+
+  {
+    "id": "sw-001",
+    "name": "Fastrack Limitless FS1 Pro",
+    "brand": "Fastrack",
+    "category": "Smartwatches",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+    "description": "Vibrant budget smartwatch featuring a curved 1.96-inch Super AMOLED display with Always-On-Display, Bluetooth calling, and 110+ sports modes.",
+    "specifications": {
+      "display": "1.96-inch Super AMOLED (410x502 resolution, Always-On Display)",
+      "calling": "SingleSync Bluetooth Calling with mic and speaker",
+      "battery_life": "Up to 7 days (standard) / 2 days with BT calling & AOD",
+      "water_resistance": "IP68 water and dust resistant",
+      "health_sensors": "24x7 Heart Rate, SpO2 blood oxygen, Stress, Sleep Tracker",
+      "sports_modes": "110+ sports tracking modes",
+      "compatibility": "Android & iOS via Fastrack Reflex World app"
+    },
+    "key_features": [
+      "Stunning 1.96-inch Super AMOLED screen delivers pitch black backgrounds and deep colors",
+      "SingleSync Bluetooth connection cuts battery drain and pairs in one click",
+      "Always-On Display (AOD) shows time without lifting wrist",
+      "NitroFast Charging provides full day juice in 10 minutes"
+    ],
+    "advantages": [
+      "Super AMOLED screen at ₹1,499 is exceptional value for money",
+      "Crisp speakerphone audio for quick wrist phone calls",
+      "Backed by Titan Company warranty and customer trust",
+      "100+ customizable watch faces"
+    ],
+    "disadvantages": [
+      "Lacks standalone built-in GPS (relies on phone's GPS for outdoor running maps)",
+      "Step count algorithm can occasionally register false steps during bumpy bike rides",
+      "AOD mode significantly reduces battery life from 7 days down to 2 days"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0BY2W4P59",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sw-002",
+    "name": "Noise ColorFit Pulse 2 Max",
+    "brand": "Noise",
+    "category": "Smartwatches",
+    "price": 1799,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=600&auto=format&fit=crop&q=80",
+    "description": "Reliable 1.85-inch Bluetooth calling smartwatch offering 550 nits brightness, comprehensive Noise Health Suite, and 10 days of battery standby.",
+    "specifications": {
+      "display": "1.85-inch TFT LCD (240x284, 550 nits brightness)",
+      "calling": "Tru Sync Bluetooth Calling with dial pad & favorite contacts",
+      "battery_life": "Up to 10 days (typical usage) / 3 days with heavy calling",
+      "water_resistance": "IP68 water resistant",
+      "health_sensors": "Heart Rate, SpO2, Sleep monitor, Breathe training, Female cycle tracker",
+      "sports_modes": "100 sports modes",
+      "compatibility": "Android & iOS via NoiseFit app"
+    },
+    "key_features": [
+      "Tru Sync technology ensures low power consumption and stable call connectivity",
+      "Noise Health Suite logs continuous heart rate and daily activity goals",
+      "Smart DND mode allows uninterrupted sleep and focus time",
+      "IP68 rating protects against rain, splashes, and sweat"
+    ],
+    "advantages": [
+      "One of India's best-selling budget smartwatches with mature companion app",
+      "Bright 550 nits screen remains readable under afternoon sunlight",
+      "Stable Bluetooth connection with quick wrist notifications for WhatsApp and calls",
+      "Comfortable silicone strap for daily wear"
+    ],
+    "disadvantages": [
+      "TFT LCD screen lacks the deep contrast and Always-On capability of AMOLED",
+      "No onboard music storage (only controls phone's music player)",
+      "Thick bottom chin bezel"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0B3R2XB8C",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sw-003",
+    "name": "Amazfit Bip 5 (Built-in GPS)",
+    "brand": "Amazfit",
+    "category": "Smartwatches",
+    "price": 5999,
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=600&auto=format&fit=crop&q=80",
+    "description": "Advanced health and fitness watch sporting an ultra-large 1.91-inch display, 4-satellite GPS positioning, Zepp OS with downloadable mini-apps, and 10-day battery.",
+    "specifications": {
+      "display": "1.91-inch Curved TFT LCD (320x380, anti-fingerprint coating)",
+      "gps": "4 Satellite Positioning Systems (GPS, GLONASS, Galileo, QZSS)",
+      "calling": "Bluetooth Phone Calls with built-in mic & speaker",
+      "battery_life": "Up to 10 days (normal usage), 26 days (battery saver)",
+      "health_sensors": "BioTracker PPG biometric sensor (Heart rate, Blood-oxygen, Stress)",
+      "sports_modes": "120+ Sports Modes with smart recognition of 7 sports",
+      "os": "Zepp OS 2.0 with app ecosystem",
+      "water_resistance": "IP68 water and dust rating"
+    },
+    "key_features": [
+      "Standalone 4-satellite GPS records outdoor run/cycle routes accurately without needing your phone",
+      "Zepp OS 2.0 supports mini-apps and casual games downloadable from the Zepp store",
+      "Syncs workout data seamlessly with Strava, Apple Health, Google Fit, and Relive",
+      "Accurate sleep stage tracking including REM, deep, light sleep, and daytime naps"
+    ],
+    "advantages": [
+      "True independent GPS fitness tracker under ₹6,000 for runners and cyclists",
+      "High sensor accuracy far superior to generic rebranded budget watches",
+      "Zepp companion app is clean, ad-free, and full of actionable wellness data",
+      "10-day battery endurance means you don't need to charge it every night"
+    ],
+    "disadvantages": [
+      "Uses a TFT screen rather than an AMOLED display",
+      "Watch casing is polycarbonate plastic rather than metal",
+      "Cannot reply to WhatsApp messages with a custom keyboard on iOS"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CBV8B4XZ",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sw-004",
+    "name": "Samsung Galaxy Watch4 (Wear OS)",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "price": 9999,
+    "image": "https://images.unsplash.com/photo-1509741102003-ca64bfe5f069?w=600&auto=format&fit=crop&q=80",
+    "description": "A genuine smartwatch powered by Google Wear OS, granting access to the Google Play Store, Google Maps navigation, NFC payments, and BioActive body composition analysis.",
+    "specifications": {
+      "display": "1.4-inch Super AMOLED (450x450, Corning Gorilla Glass DX+)",
+      "processor": "Exynos W920 Dual Core 1.18GHz (5nm)",
+      "ram_storage": "1.5 GB RAM + 16 GB Internal Storage",
+      "os": "Wear OS Powered by Samsung (One UI Watch)",
+      "battery_life": "Up to 40 hours",
+      "sensors": "Samsung BioActive Sensor (Optical Heart Rate + Electrical Heart ECG + Bioelectrical Impedance BIA)",
+      "water_resistance": "5ATM + IP68 + MIL-STD-810G military durability",
+      "connectivity": "Bluetooth 5.0, Wi-Fi, NFC, GPS"
+    },
+    "key_features": [
+      "Runs genuine Wear OS with Google Play Store: download Spotify, Strava, WhatsApp, Google Maps",
+      "BioActive sensor measures body fat percentage, skeletal muscle, and body water via BIA",
+      "Turn-by-turn vibrating walking navigation with Google Maps on your wrist",
+      "16GB onboard storage lets you save offline Spotify songs and connect Bluetooth earbuds"
+    ],
+    "advantages": [
+      "A real smartwatch with an operating system and full interactive app ecosystem under ₹10,000",
+      "Full keyboard and voice-to-text WhatsApp message replies",
+      "Vibrant Super AMOLED display with tactile digital rotating bezel",
+      "High grade aluminum casing with military drop durability"
+    ],
+    "disadvantages": [
+      "Battery lasts only 1 to 1.5 days (requires daily charging like a smartphone)",
+      "Not compatible with Apple iPhones (Android only)",
+      "ECG and Blood Pressure features require a Samsung Galaxy smartphone"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B098FBVRLF",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "sw-005",
+    "name": "Fire-Boltt Ninja Call Pro Plus",
+    "brand": "Fire-Boltt",
+    "category": "Smartwatches",
+    "price": 1199,
+    "image": "https://images.unsplash.com/photo-1544117519-31a4b719223d?w=600&auto=format&fit=crop&q=80",
+    "description": "Pocket-friendly 1.83-inch HD smartwatch equipped with Bluetooth calling, AI voice assistance, and 100+ workout modes at an entry-level price.",
+    "specifications": {
+      "display": "1.83-inch HD Display (240x280 resolution, 280 nits)",
+      "calling": "Bluetooth Calling with built-in mic and speaker",
+      "battery_life": "Up to 6 days (standby), 2 days with Bluetooth calling",
+      "health_sensors": "Heart Rate tracking, SpO2 monitor, Sleep tracker",
+      "sports_modes": "100+ Sports tracking modes",
+      "water_resistance": "IP67 water resistant",
+      "compatibility": "Android & iOS via Da Fit app"
+    },
+    "key_features": [
+      "Access Siri or Google Assistant via built-in microphone and speaker",
+      "Quick access dial pad with recent call history sync",
+      "Built-in retro casual mini games (2048, Flappy)",
+      "Camera shutter and music playback remote control"
+    ],
+    "advantages": [
+      "Lowest price point for basic wrist calling and notification alerts at ₹1,199",
+      "Lightweight plastic casing suitable for younger students",
+      "Multiple color variants and strap options",
+      "Simple setup with Da Fit app"
+    ],
+    "disadvantages": [
+      "Display has modest resolution and lower outdoor brightness (280 nits)",
+      "Sensor accuracy is basic and meant for approximate fitness trends only",
+      "IP67 is splash resistant only (not suitable for swimming or showers)"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0BF57RN3K",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+
+  {
+    "id": "km-001",
+    "name": "Logitech MK215 Wireless Combo",
+    "brand": "Logitech",
+    "category": "Keyboards and Mice",
+    "price": 1295,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+    "description": "Ultra-reliable, space-saving wireless keyboard and compact mouse combo offering whisper-quiet keys and up to 24-month battery life.",
+    "specifications": {
+      "type": "Wireless Keyboard and Optical Mouse Combo",
+      "connectivity": "2.4 GHz USB Nano Receiver (up to 10m range, 128-bit AES encryption)",
+      "keyboard_layout": "Compact layout (36% smaller than standard keyboards, full numpad)",
+      "battery_life": "24 months (keyboard: 2x AAA) / 5 months (mouse: 2x AA)",
+      "mouse_dpi": "1000 DPI Optical sensor",
+      "compatibility": "Windows, ChromeOS, Linux"
+    },
+    "key_features": [
+      "Compact footprint leaves more room on cramped college study desks",
+      "Whisper-quiet low-profile keys prevent typing noise during study sessions",
+      "128-bit AES encryption between keyboard and receiver safeguards keystrokes",
+      "Plug-and-play setup without any software drivers needed"
+    ],
+    "advantages": [
+      "Rock-solid wireless connection with zero dropped keystrokes from Logitech",
+      "Astounding 2-year keyboard battery longevity",
+      "Space-saving design while still preserving dedicated arrow keys and number pad",
+      "Exceptional durability that survives years of student typing"
+    ],
+    "disadvantages": [
+      "Mouse is compact and may feel small for users with large hands",
+      "No caps lock LED indicator light",
+      "Uses 2.4GHz USB-A dongle only (no Bluetooth support)"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B00P8UG8K2",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "km-002",
+    "name": "Dell KM3322W Wireless Combo",
+    "brand": "Dell",
+    "category": "Keyboards and Mice",
+    "price": 1399,
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+    "description": "Full-size enterprise-grade wireless keyboard and ergonomic mouse pairing 36-month class-leading battery life with spill resistance.",
+    "specifications": {
+      "type": "Full-Size Wireless Keyboard + Mouse Combo",
+      "connectivity": "2.4 GHz USB Wireless Dongle",
+      "keyboard_layout": "Full-size 104 keys with dedicated volume and media hotkeys",
+      "battery_life": "Up to 36 months (keyboard: 2x AAA) / 18 months (mouse: 1x AA)",
+      "mouse_dpi": "1000 DPI Precision Optical Sensor (ambidextrous design)",
+      "durability": "Spill-resistant keyboard with anti-fade keycaps",
+      "compatibility": "Windows, macOS, Linux, ChromeOS"
+    },
+    "key_features": [
+      "Phenomenal 36-month battery life virtually eliminates battery replacements",
+      "Spill-resistant channels safely drain accidental tea or water spills away from circuits",
+      "Anti-fade UV coated keycaps prevent letters from rubbing off over years of typing",
+      "Full-sized ergonomic mouse with comfortable contoured grip"
+    ],
+    "advantages": [
+      "Best full-sized typing experience for office work, data entry, and accounting",
+      "Generous mouse size fits comfortably in medium and large palms",
+      "Anti-spill protection provides peace of mind on student desks",
+      "Dell's 3-year advanced exchange warranty"
+    ],
+    "disadvantages": [
+      "Full-size keyboard is wide (44.5 cm) and less convenient to carry in a backpack",
+      "No backlighting for dark room use",
+      "Requires a standard USB-A port on your computer"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B09V7N7W3M",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "km-003",
+    "name": "Portronics Bubble Wireless Keyboard",
+    "brand": "Portronics",
+    "category": "Keyboards and Mice",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?w=600&auto=format&fit=crop&q=80",
+    "description": "Charming typewriter-style wireless keyboard with dual Bluetooth 5.0 + 2.4GHz connectivity and an integrated slot for your phone or tablet.",
+    "specifications": {
+      "type": "Multi-Device Compact Wireless Keyboard",
+      "connectivity": "Dual Mode: Bluetooth 5.0 + 2.4 GHz USB Dongle",
+      "layout": "Compact 84-key typewriter circular keycaps",
+      "battery": "2x AAA batteries (auto-sleep power saving)",
+      "features": "Built-in cradle slot for holding phones and 10-inch tablets",
+      "compatibility": "Windows, Android, iOS, iPadOS, macOS"
+    },
+    "key_features": [
+      "Seamlessly switch between your laptop, tablet, and smartphone with one keystroke",
+      "Integrated viewing cradle holds your phone or iPad upright at an ergonomic angle",
+      "Retro circular 'bubble' typewriter-style keycaps for fun tactile typing",
+      "Whisper-silent scissor-switch feel dampens typing clatter"
+    ],
+    "advantages": [
+      "Incredible sub-₹1,000 price point for multi-device Bluetooth capability",
+      "Built-in phone slot saves desk clutter during lectures and coding",
+      "Lightweight and compact enough to slip into any bag",
+      "Instant pairing across iOS, Android, and Windows"
+    ],
+    "disadvantages": [
+      "Circular keys have a minor learning curve if you are used to square keycaps",
+      "No mouse included in the package (keyboard only)",
+      "Lacks dedicated numeric keypad"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B0CG617L9P",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "km-004",
+    "name": "Logitech K380 Multi-Device Bluetooth",
+    "brand": "Logitech",
+    "category": "Keyboards and Mice",
+    "price": 2495,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=600&auto=format&fit=crop&q=80",
+    "description": "The gold-standard compact Bluetooth keyboard featuring easy-switch pairing for up to 3 devices, scooped keys, and 2-year battery life.",
+    "specifications": {
+      "type": "Compact Multi-Device Bluetooth Keyboard",
+      "connectivity": "Bluetooth Low Energy (connects up to 3 devices simultaneously)",
+      "layout": "Minimalist Tenkeyless with scooped scissor keys",
+      "battery_life": "Up to 24 months (2x AAA batteries included)",
+      "weight": "423 grams",
+      "compatibility": "Windows, macOS, iPadOS, iOS, ChromeOS, Android, Apple TV"
+    },
+    "key_features": [
+      "Easy-Switch yellow buttons switch instantly between laptop, phone, and tablet",
+      "Curved, scooped low-profile keys match fingertips for buttery smooth, quiet typing",
+      "Auto-detects OS layout (Cmd for Mac, Alt for Windows) automatically",
+      "Slim, pebble design that easily slips alongside laptops in a backpack"
+    ],
+    "advantages": [
+      "Flawless Bluetooth reliability with zero lag and instant wake-from-sleep",
+      "Premium tactile key feel with ideal travel distance for fast touch-typing",
+      "Sturdy weighted base that does not slide or flex on desks",
+      "Compatible with almost every computing device without needing a USB port"
+    ],
+    "disadvantages": [
+      "Does not come with a mouse (keyboard only)",
+      "Does not include a 2.4GHz USB receiver (Bluetooth only)",
+      "No key backlighting"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B013SL1246",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  },
+  {
+    "id": "km-005",
+    "name": "Cosmic Byte CB-GK-16 Firefly Mechanical",
+    "brand": "Cosmic Byte",
+    "category": "Keyboards and Mice",
+    "price": 2199,
+    "image": "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=600&auto=format&fit=crop&q=80",
+    "description": "Tenkeyless (TKL) compact mechanical keyboard engineered with genuine Outemu tactile switches, per-key RGB backlighting, and full anti-ghosting.",
+    "specifications": {
+      "type": "Tenkeyless (87-Key) Mechanical Keyboard",
+      "switches": "Outemu Mechanical Switches (50 million click lifecycle)",
+      "backlighting": "Per-Key RGB with 18 lighting modes and brightness control",
+      "connectivity": "Braided USB-A cable (gold-plated)",
+      "anti_ghosting": "All-key Anti-Ghosting (NKRO)",
+      "keycaps": "Double-injection keycaps that never wear off",
+      "compatibility": "Windows, macOS, Linux"
+    },
+    "key_features": [
+      "True mechanical tactile switches provide satisfying feedback for programming and gaming",
+      "Full N-Key Rollover (NKRO) ensures every simultaneous keystroke registers accurately",
+      "Foldable kickstands and aluminum faceplate offer solid typing ergonomics",
+      "TKL 87-key layout frees up desk space for mouse movement"
+    ],
+    "advantages": [
+      "Unbeatable mechanical switch tactile response for coders and writers under ₹2,500",
+      "Vibrant customizable RGB lighting allows comfortable typing in total darkness",
+      "Double-shot keycaps ensure legends will never fade or wear away",
+      "Heavy aluminum top plate eliminates deck flexing"
+    ],
+    "disadvantages": [
+      "Clicky switches produce audible sound that may disturb quiet roommates or libraries",
+      "Wired only (no wireless or Bluetooth option)",
+      "Thicker profile benefits from an ergonomic wrist rest during 4+ hour marathons"
+    ],
+    "purchase_url": "https://www.amazon.in/dp/B08G1QXYZ1",
+    "source": "Curated product dataset",
+    "last_updated": "2026-11-23"
+  }
+]

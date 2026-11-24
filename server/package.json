@@ -1,0 +1,20 @@
+{
+  "name": "buywise-server",
+  "version": "1.0.0",
+  "description": "Express Backend with Gemini AI for BuyWise",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^3.6.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
